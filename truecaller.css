@@ -1,0 +1,172 @@
+.back-groundimage{
+    background-image:url("./lindsey-lamont-A2gJQlRtWrA-unsplash.jpg");
+    background-size:cover;
+    height:90vh;
+    padding: 20px;
+   
+} 
+.container1{
+    display:flex;
+    justify-content: center;
+} 
+
+.section3{
+    display:flex;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+
+}
+.section4{
+    color:#00baf2;
+}
+.headingpage3{
+    font-size: 40px;
+}
+.section5{
+    border: 2px solid #00baf2;
+    border-radius: 20px;
+    color: #00baf2;
+    padding: 12px;
+    background-color: white;
+    font-size: 15px;
+}
+.true{
+    display:flex;
+    background-color: aliceblue;
+}
+.true1{
+    color:#00baf2;
+}
+.true2{
+    font-size: 40px;
+}
+.true3{
+    border: 2px solid #00baf2;
+    border-radius: 20px;
+    color:#00baf2;
+    padding: 14px;
+    background-color: white;
+    font-size: 15px;
+}
+.true{
+    padding: 20px;
+    margin: 20px;
+}
+.caller1{
+    display:flex;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+}
+.caller{
+    color:#00baf2;
+}
+.caller2{
+    font-size: 40px;
+}
+.caller3{
+    border: 2px solid #00baf2;
+    border-radius: 20px;
+    color:#00baf2;
+    padding: 14px;
+    background-color: white;
+    font-size: 15px;
+}
+.caller4{
+    padding: 20px;
+    margin: 20px;
+}
+.app1{
+    padding: 20px;
+    margin:20px;
+}
+.app{
+    display:flex;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+}
+.app2{
+    display:flex;
+    justify-content:space-evenly;
+   
+}
+.app3{
+    color:#00baf2;
+}
+.app4{
+    font-size: 40px;
+}
+.section6{
+    border: 3px  solid white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.container-heading{
+   background-color: antiquewhite;
+   text-align: center;
+   align-items: center;
+   padding-top: 10%;
+}   
+  
+.headingpage2{
+    font-size: 50px;
+}
+a{
+  text-decoration: none;
+}
+body{
+    margin: 0px;
+}
+.navbar{
+     display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding:0.5% 2%;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    color:#00baf2;
+}
+.navbar a{
+    text-decoration: none;
+    color:black;
+    font-size: 1.1rem;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.container-right{
+    padding: 20px;
+    margin: 20px;
+}
+.web-button{
+    border:2px solid #00baf2;
+    background-color:#00baf2;
+    border-radius: 20px;
+    padding: 10px;
+
+
+}
+.web2{
+    color: #00baf2;
+}
+
+.tag{
+    font-size: 40px;
+    color:#00baf2;
+}
+.tag1{
+    display:flex;
+    justify-content:space-evenly;
+}
+.tag2{
+    border-radius: 5px;
+    color: #00baf2;
+    padding: 5px;
+    background-color: white;
+    font-size: 5px;
+    width: 250px;
+
+}
